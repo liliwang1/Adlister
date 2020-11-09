@@ -1,0 +1,7 @@
+*.iml
+.idea/*
+.DS_Store
+*.classout/*
+target/*
+src/test
+Config.java
